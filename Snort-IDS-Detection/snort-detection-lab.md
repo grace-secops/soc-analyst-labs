@@ -63,16 +63,4 @@ Conclusion
 
 This lab gave me a better understanding of how SOC analysts can use intrusion detection tools to monitor network activity and investigate potential threats. It also increased my interest in learning more about network security and security monitoring.
 
- Snort Configuration Validation
-[Snort Config](snort-config-validation.jpeg)
 
- Snort Detection Rule
-[Snort Rule](snort-rule.jpeg)
-
- Snort Monitoring
- [Snort Running](traffic-generation.jpeg)
-
- Live Alert Monitoring
-The screenshot below shows Snort actively detecting network activity during packet inspection.
-
- [Snort Alert](snort-alert-detected.jpeg)
