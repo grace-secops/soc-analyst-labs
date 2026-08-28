@@ -26,12 +26,9 @@ I created these labs to move beyond just learning cybersecurity concepts and get
 
 Through these labs, I am developing practical skills in:
 
-* Network traffic analysis
-* Intrusion detection
-* Security alert investigation
-* Digital forensics
-* Threat detection
-* Security monitoring
+1. Network traffic analysis
+2. Intrusion detection
+3. Digital forensics
 
 I am continuing to build on these skills through hands-on practice and personal projects as I transition into cybersecurity.
 
