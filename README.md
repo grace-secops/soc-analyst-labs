@@ -1,23 +1,37 @@
-# soc-analyst-labs
+ SOC Analyst Labs
 
-This repository contains hands-on Blue Team cybersecurity labs focused on threat detection, digital forensics, and incident response.
+This repository contains hands-on cybersecurity labs that I have completed while building my skills in Blue Team security, threat detection, network analysis and digital forensics.
 
-The goal of this portfolio is to demonstrate practical skills used by Security Operations Center (SOC) analysts in detecting and investigating cyber threats.
+I created these labs to move beyond just learning cybersecurity concepts and get practical experience using security tools to investigate network activity, detect suspicious behaviour and understand how security analysts approach investigations.
 
-## Labs Included
+ Labs Included
 
 1. Snort IDS Detection
-2. Memory Forensics with Volatility
-3. Network Traffic Analysis with Wireshark
-4. Incident Investigation
-5. Threat Intelligence Analysis
+   Configuring Snort, creating detection rules, monitoring network traffic and analysing security alerts.
 
-## Tools Used
+2. Network Traffic Analysis with Wireshark
+   Capturing network traffic, filtering ICMP packets and examining packet and protocol details.
 
-- Snort IDS
-- Wireshark
-- Volatility
-- Redline
-- Kali Linux
+3. Memory Forensics with Volatility
+   Learning how memory analysis can be used to investigate processes and identify suspicious activity.
 
-These labs simulate real-world security investigations and threat detection scenarios.
+ Tools Used
+
+* Snort IDS
+* Wireshark
+* Volatility
+* Kali Linux
+
+ What I Am Learning
+
+Through these labs, I am developing practical skills in:
+
+* Network traffic analysis
+* Intrusion detection
+* Security alert investigation
+* Digital forensics
+* Threat detection
+* Security monitoring
+
+I am continuing to build on these skills through hands-on practice and personal projects as I transition into cybersecurity.
+
