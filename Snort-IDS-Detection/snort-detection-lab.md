@@ -21,25 +21,25 @@ The main objective was to configure Snort, monitor network traffic and test whet
 
 I started by configuring Snort and checking that the configuration was valid before beginning the detection test.
 
-[Snort Configuration Validation](snort-config-validation.jpeg)
+![Snort Configuration Validation](snort-config-validation.jpeg)
 
 2. Created a detection rule
 
 I created a Snort rule to identify the network activity I wanted to monitor. This helped me understand how detection rules can be used to tell an IDS what type of traffic to look for.
 
-[Snort Detection Rule](snort-rule.jpeg)
+![Snort Detection Rule](snort-rule.jpeg)
 
 3. Generated network traffic
 
 I generated network traffic while Snort was running so that I could test whether the rule would identify the activity.
 
-[Traffic Generation](traffic-generation.jpeg)
+![Traffic Generation](traffic-generation.jpeg)
 
  4. Monitored the alerts
 
 Snort successfully generated an alert when the monitored traffic matched the detection rule. I reviewed the alert to understand how Snort reports detected activity.
 
-[Snort Alert](snort-alert-detected.jpeg)
+![Snort Alert](snort-alert-detected.jpeg)
 
  What I Observed
 
